@@ -1,0 +1,19 @@
+{
+  "meshes": [
+    {
+      "shader": {
+        "frag": "shaders/basic_lighting_no_texture.frag",
+        "vert": "shaders/basic_lighting_no_texture.vert"
+      },
+      "materials": {
+
+      },
+      "models": [
+        {
+          "filename": "assets/map1/map1.dae",
+          "colType": "STATIC"
+        }
+      ]
+    }
+  ]
+}
